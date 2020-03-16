@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://111.20.119.234:9080/iOS/Cmcc_client_1_iPhone_V6.1.5.04.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<integer>0</integer>
+					<key>url</key>
+					<string>https://ali-fir-pro-icon.fir.im/7ec909b02cb420f80be654343fbed83ebe984778?auth_key=1583834375-0-0-d563b9d311468429e7ad16d7f2671e51</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://ali-fir-pro-icon.fir.im/7ec909b02cb420f80be654343fbed83ebe984778?auth_key=1583834375-0-0-d563b9d311468429e7ad16d7f2671e51</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>cn.10086.app</string>
+				<key>bundle-version</key>
+				<string>6.1.5</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>中国移动</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://111.20.119.234:9080/iOS/Cmcc_client_1_iPhone_V6.1.5.04.ipa</string>
+					<string>http://192.168.6.33:5000/download/TestDispatch.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.10086.app</string>
+				<string>CM.TestDispatch</string>
 				<key>bundle-version</key>
-				<string>6.1.5</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>中国移动</string>
+				<string>分发测试</string>
 			</dict>
 		</dict>
 	</array>
